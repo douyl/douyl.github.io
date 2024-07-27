@@ -22,6 +22,63 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 
 <div class="publications">
+  <ol class="bibliography">
+    <!-- Publication 1 -->
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="./assets/img/2DToothAlign.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+          <abbr class="badge">MICCAI</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="https://proceedings.bmvc2023.org/322/">3D Structure-guided Network for Tooth Alignment in 2D Photograph</a></div>
+          <div class="author">Han Wu*, Chong Wang*, Lanzhuju Mei, Tong Yang, Min Zhu, Dingggang Shen, Zhiming Cui+</div>
+          <div class="periodical"><em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.</em></div>
+          <div class="links">
+            <a href="https://proceedings.bmvc2023.org/322/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="https://proceedings.bmvc2023.org/322/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <!-- Add more publications in a similar manner -->
+    
+    <!-- Publication 2 -->
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+          <img src="IMAGE_URL_HERE" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+          <abbr class="badge">CONFERENCE_SHORT</abbr>
+        </div>
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title"><a href="PDF_URL_HERE">TITLE_HERE</a></div>
+          <div class="author">AUTHORS_HERE</div>
+          <div class="periodical"><em>CONFERENCE_HERE</em></div>
+          <div class="links">
+            <a href="PDF_URL_HERE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="PROJECT_PAGE_URL_HERE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <!-- Continue adding publications as needed -->
+  </ol>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <div class="publications">
   <div class="publication">
     <img src="./assets/img/2DToothAlign.png" alt="Publication 1 image" style="width: 200px;">
     <h3><a href="https://proceedings.bmvc2023.org/322/">3D Structure-guided Network for Tooth Alignment in 2D Photograph</a></h3>
@@ -29,23 +86,17 @@ The code is written in Markdown and is intended to be used in a website or web p
     <p><em>The 34th British Machine Vision Conference</em></p>
     <a href="https://papers.bmvc2023.org/0322.pdf" class="btn">PDF</a>
     <a href="https://proceedings.bmvc2023.org/322/" class="btn">Project Page</a>
-    <a href="https://proceedings.bmvc2023.org/322/" class="btn">BibTex</a>
+    <a href="https://github.com/ShanghaiTech-IMPACT/3D-Structure-guided-Network-for-Tooth-Alignment-in-2D-Photograph" class="btn">Code</a>
     <span>Published</span>
   </div>
-
-  <!-- <div class="publication">
-    <img src="path/to/image2.jpg" alt="Publication 2 image" style="width: 200px;">
-    <h3><a href="link-to-paper2.pdf">Magneto − Ionics in Annealed W/CoFeB/HfO2 Thin Films</a></h3>
-    <p>Rohit Pachat, Djoudi Ourdani, Maria − andromachi Syskaki, Alessio Lamperti, Subhajit Roy, Song Chen, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez</p>
-    <p><em>Advanced Materials Interfaces</em></p>
-    <a href="path/to/pdf2.pdf" class="btn">PDF</a>
-    <a href="path/to/project-page2" class="btn">Project Page</a>
-    <a href="path/to/bibtex2" class="btn">BibTex</a>
-    <span>Published • 16 Citations</span>
-  </div> -->
-</div>
+</div> -->
 
 
+
+
+
+
+<!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 
 <!-- 
 <div class="publications">
