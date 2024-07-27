@@ -18,6 +18,15 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
 
 
 ## Education
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 50px; margin-right: 10px;">
+  <div>
+    <strong>ShanghaiTech University, Shanghai, China</strong><br>
+    Sept. 2023 - Present<br>
+    <em>M.S. in Biomedical Engineering</em>
+  </div>
+</div>
+
 - ![ShanghaiTech University Logo](./assets/img/ShanghaiTech_Logo.png) **M.S. in Biomedical Engineering**, 2023 - Present, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China
 - **B.E. in Biomedical Engineering**, 2019 - 2023, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China
 - **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
