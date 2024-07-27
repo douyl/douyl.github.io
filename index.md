@@ -39,7 +39,7 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="./assets/img/highschool.png" alt="ShanghaiTech University Logo" style="width: 100px; margin-right: 10px;">
   <div>
-    <strong>CHANGZHOU SENIOR HIGH SCHOOL OF JIANGSU PROVINCE, Jiangsu, China</strong><br>
+    <strong>Changzhou Senior High School of Jiangsu Province, Jiangsu, China</strong><br>
     Sept. 2016 - Jun. 2019<br>
     High School Diploma
   </div>
