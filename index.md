@@ -6,8 +6,6 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a graduate student in the School of Biomedical Engineering at ShanghaiTech University under the supervision of Prof. Zhiming Cui and Prof. Dinggang Shen. Before that, I spent four years at WUT(Wuhan University of Technology) and received my B.Eng. degree in 2022.
-
 I am currently a graduate student, majored in Biomedical Engineering, at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working under the mentorship of Prof. [Zhiming Cui](https://shanghaitech-impact.github.io/) and Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao). 
 Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of outstanding graduate in 2023.
 
