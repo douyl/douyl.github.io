@@ -4,20 +4,17 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Conferences & Events"
-    url: ./#conferences
+  - title: "Services"
+    url: ./#services
+
+  - title: "Awards"
+    url: ./#awards
 
   - title: "Publications"
     url: ./#publications
 
-  - title: "Projects"
-    url: ./#projects
-
   - title: "News"
     url: ./#news
-
-  - title: "Blogs"
-    url: ./blog/
 
   - title: "Bio"
     url: ./#about-me
