@@ -50,10 +50,8 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
 
 {% include_relative _includes/news.md %}
 
-<!-- {% include_relative _includes/projects.md %} -->
-
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/conference.md %}
+{% include_relative _includes/awards.md %}
 
 {% include_relative _includes/contact.md %}

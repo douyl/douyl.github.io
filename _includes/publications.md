@@ -31,7 +31,7 @@ The code is written in Markdown and is intended to be used in a website or web p
           <abbr class="badge">MICCAI</abbr>
         </div>
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://proceedings.bmvc2023.org/322/">TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs</a></div>
+          <div class="title"><a href="https://arxiv.org/pdf/2407.11419">TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs</a></div>
           <div class="author">Chenfan Xu, Zhentao Liu, Yuan Liu, <strong><u>Yulong Dou</u></strong>, Jiamin Wu, Jiepeng Wang, Minjiao Wang, Dinggang Shen, Zhiming Cui</div>
           <div class="publisher"><em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.</em></div>
           <div class="links">
@@ -65,29 +65,6 @@ The code is written in Markdown and is intended to be used in a website or web p
   </ol>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div class="publications">
-  <div class="publication">
-    <img src="./assets/img/2DToothAlign.png" alt="Publication 1 image" style="width: 200px;">
-    <h3><a href="https://proceedings.bmvc2023.org/322/">3D Structure-guided Network for Tooth Alignment in 2D Photograph</a></h3>
-    <p>Yulong Dou, Lanzhuju Mei, Dinggang Shen, Zhiming Cui</p>
-    <p><em>The 34th British Machine Vision Conference</em></p>
-    <a href="https://papers.bmvc2023.org/0322.pdf" class="btn">PDF</a>
-    <a href="https://proceedings.bmvc2023.org/322/" class="btn">Project Page</a>
-    <a href="https://github.com/ShanghaiTech-IMPACT/3D-Structure-guided-Network-for-Tooth-Alignment-in-2D-Photograph" class="btn">Code</a>
-    <span>Published</span>
-  </div>
-</div> -->
 
 
 
