@@ -18,9 +18,36 @@ The code is written in Markdown and is intended to be used in a website or web p
 -->
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Song-Chen-60" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=2gXabhsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 
+<div class="publications">
+  <div class="publication">
+    <img src="./assets/img/2DToothAlign.png" alt="Publication 1 image" style="width: 200px;">
+    <h3><a href="https://proceedings.bmvc2023.org/322/">3D Structure-guided Network for Tooth Alignment in 2D Photograph</a></h3>
+    <p>Yulong Dou, Lanzhuju Mei, Dinggang Shen, Zhiming Cui</p>
+    <p><em>The 34th British Machine Vision Conference</em></p>
+    <a href="https://papers.bmvc2023.org/0322.pdf" class="btn">PDF</a>
+    <a href="https://proceedings.bmvc2023.org/322/" class="btn">Project Page</a>
+    <a href="https://proceedings.bmvc2023.org/322/" class="btn">BibTex</a>
+    <span>Published</span>
+  </div>
+
+  <!-- <div class="publication">
+    <img src="path/to/image2.jpg" alt="Publication 2 image" style="width: 200px;">
+    <h3><a href="link-to-paper2.pdf">Magneto − Ionics in Annealed W/CoFeB/HfO2 Thin Films</a></h3>
+    <p>Rohit Pachat, Djoudi Ourdani, Maria − andromachi Syskaki, Alessio Lamperti, Subhajit Roy, Song Chen, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez</p>
+    <p><em>Advanced Materials Interfaces</em></p>
+    <a href="path/to/pdf2.pdf" class="btn">PDF</a>
+    <a href="path/to/project-page2" class="btn">Project Page</a>
+    <a href="path/to/bibtex2" class="btn">BibTex</a>
+    <span>Published • 16 Citations</span>
+  </div> -->
+</div>
+
+
+
+<!-- 
 <div class="publications">
 <ol class="bibliography">
 {% assign gsDataBaseUrl = 'https://raw.githubusercontent.com/song-chen1/song-chen1.github.io/' %}
@@ -86,4 +113,4 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 <br>
 
-{% endfor %}
+{% endfor %} -->
