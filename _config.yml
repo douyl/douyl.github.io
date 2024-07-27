@@ -39,7 +39,6 @@ enable_footnote: false
 #footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 
-
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
@@ -50,8 +49,6 @@ remote_theme: yaoyao-liu/minimal-light
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
 
 
 # The following files will be removed from the generated website.
