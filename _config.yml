@@ -5,16 +5,14 @@ affiliation: ShanghaiTech University
 subaffiliation: School of Biomedical Engineering
 affiliation_link: https://www.shanghaitech.edu.cn/
 subaffiliation_link: https://bme.shanghaitech.edu.cn/
-# affiliation_logo: ./assets/img/spinion.svg
 email: douyl2023@shanghaitech.edu.cn
-# email2: song.chen (at) universite-paris-saclay.fr
 address: 393 Huaxia Zhong Lu, Pudong New District, Shanghai, China
 address_link: https://www.google.fr/maps/place/%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/@31.1763741,121.5898769,17z/data=!3m1!4b1!4m6!3m5!1s0x35b27828f381499b:0x5ae88f32ad8196b1!8m2!3d31.1763741!4d121.5924518!16s%2Fm%2F0qftcsg?entry=ttu
 
 # Search Engine Optimization (SEO)
-keywords: song chen, chen song, songchen, chensong
+keywords: Yulong Dou, yulong dou, Yulong, douyl
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
+description: Yulong Dou is a graduate student in the School of Biomedical Engineering at ShanghaiTech University.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -23,14 +21,13 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-cv_link: https://blog.songchen.science/de3ec0aa2234aa1e3ee275bbc715c6c9/CV.pdf
-google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
-github_link: https://github.com/song-chen1/
-linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+# cv_link: https://blog.songchen.science/de3ec0aa2234aa1e3ee275bbc715c6c9/CV.pdf  !!!!!!!!!!!
+google_scholar: https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=2gXabhsAAAAJ
+github_link: https://github.com/douyl/
+researchgate: https://www.researchgate.net/profile/Yulong-Dou
 
 # Images 
-avatar: ./assets/img/avatar3.jpg
+avatar: ./assets/img/yulong.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
@@ -41,10 +38,7 @@ enable_footnote: false
 #footnote: Feel free to use my website's source code.
 #footnote_link: https://github.com/yaoyao-liu/minimal-light
 
-# Analytics
-# Please remove the following lines about analytics services if you fork my project. 
-# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
+
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
