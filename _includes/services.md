@@ -2,36 +2,37 @@
 
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
-<h4 style="margin:0 10px 0;">Organization Committee</h4>
-
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 <ul style="margin:0 0 5px;">
-  <li>..<a href="https://bmvc2023.org/people/organisers/"><autocolor>..</autocolor></a> <a href="h12"><autocolor>2022</autocolor></a>-<a href="12"><autocolor>2023</autocolor></a></li>
-  <li>s<a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>sd</autocolor></a></li>
+  <li>International Conference on Machine Learning in Medical Imaging (MLMI) 2024.</li>
+  <li>International Conference on Machine Learning in Medical Imaging (MLMI) 2023.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">sd</h4>
 
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr.thecvf.com/"><autocolor>...</autocolor></a></li>
-  
+  <li>IEEE Transactions on Visualization and Computer Graphics (TVCG).</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">...</h4>
 
+<h4 style="margin:0 10px 0;">Membership</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://ijcai-21.org/"><autocolor>...</autocolor></a></li>
+  <li>Student Member of The British Machine Vision Association and Society for Pattern Recognition (BMVA).</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">..</h4>
 
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>...</autocolor></a></li>
-  
+  <li>BME1047 Physiology, School of Life Science and Technology, ShanghaiTech, 2021-2022 Spring.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>...</autocolor></a></li>
-  
+<h4 style="margin:0 10px 0;">Other Services</h4>
+<ul style="margin:0 0 20px;">  
+  <li><strong>[Sept. 2023 - Present]</strong> Founding President, Student Development Committee, School of Biomedical Engineering, ShanghaiTech.</li>
+  <li><strong>[Aug. 2020 - Present]</strong> Admission Volunteer, Jiangsu Province Undergraduate Admissions Team, ShanghaiTech.</li>
+  <li><strong>[Nov. 2023 - Present]</strong> Student Representative of the 4th ShanghaiTech University Student Congress.</li>
+  <li><strong>[Jul. 2021 - Nov. 2021]</strong> Leader, "Medical Devices" Team, Industrial Practice Program for 2019 Undergraduates, ShanghaiTech.</li>
+  <li><strong>[Sept. 2020 - Jun. 2023]</strong> Student Administrative Assistant, Office of Student Affairs, ShanghaiTech.</li>
+  <li><strong>[Sept. 2019 - Jun. 2023]</strong> Student Leader of Mentor Group, ShangDao College, ShanghaiTech University.</li>
 </ul>
