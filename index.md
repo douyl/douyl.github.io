@@ -19,17 +19,27 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
 
 ## Education
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 50px; margin-right: 10px;">
+  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 100px; margin-right: 10px;">
   <div>
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2023 - Present<br>
-    <em>M.S. in Biomedical Engineering</em>
+    <em>M.S.</em> in Biomedical Engineering<br>
+    Supervisors: Prof. Zhiming Cui
   </div>
 </div>
 
-- ![ShanghaiTech University Logo](./assets/img/ShanghaiTech_Logo.png) **M.S. in Biomedical Engineering**, 2023 - Present, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China
-- **B.E. in Biomedical Engineering**, 2019 - 2023, [ShanghaiTech University](https://www.shanghaitech.edu.cn/), China
-- **German Certificate**, 2011 - 2012, [Nanjing Univeristy](https://www.nju.edu.cn/), China
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 100px; margin-right: 10px;">
+  <div>
+    <strong>ShanghaiTech University, Shanghai, China</strong><br>
+    Sept. 2019 - Jun. 2023<br>
+    <em>B.E.</em> in Biomedical Engineering<br>
+    Rank: 2/19, the honor of <em>Outstanding Graduate<em>
+  </div>
+</div>
+
+
+
 
 ## Grants and Fellowships
 - **Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship**, 2020-2024, Early Stage Researcher (ESR), Grant Number: 864415
