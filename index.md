@@ -24,7 +24,7 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2023 - Present<br>
     <em>M.S.</em> in Biomedical Engineering<br>
-    Supervisors: Prof. Zhiming Cui
+    Supervisor: Prof. Zhiming Cui
   </div>
 </div>
 
@@ -38,6 +38,14 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
   </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="./assets/img/highschool.png" alt="ShanghaiTech University Logo" style="width: 100px; margin-right: 10px;">
+  <div>
+    <strong>CHANGZHOU SENIOR HIGH SCHOOL OF JIANGSU PROVINCE, Jiangsu, China</strong><br>
+    Sept. 2016 - Jun. 2019<br>
+    High School Diploma
+  </div>
+</div>
 
 
 {% include_relative _includes/news.md %}
