@@ -130,11 +130,6 @@
         <br>
         <br>
         <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
 
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
@@ -148,10 +143,22 @@
         </a>
         {% endif %}
 
+        {% if site.google_scholar %}
+        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
+          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        </a>  
+        {% endif %}
+
         {% if site.researchgate %}
         <a style="margin: 0 5px 0 0" href="{{ site.researchgate }}">
           <i class="fab fa-researchgate"></i>
         </a>
+        {% endif %}
+
+        {% if site.semantic_scholar %}
+        <a style="margin: 0 5px 0 0" href="{{ site.semantic_scholar }}">
+          <i class="ai ai-semantic-scholar" style="font-size:1.2rem"></i>
+        </a>  
         {% endif %}
 
         {% if site.linkedin %}
