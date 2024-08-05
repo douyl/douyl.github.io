@@ -23,7 +23,7 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
     Sept. 2023 - Present<br>
     <em>M.S.</em> in Biomedical Engineering<br>
     <!-- Supervisor: Prof. Zhiming Cui<br> -->
-    GPA: 3.93/4, Honor: <em>National Scholarship</em>
+    GPA: 3.93/4, Honor: 国奖<em>National Scholarship</em>
   </div>
 </div>
 
