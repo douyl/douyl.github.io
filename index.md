@@ -16,18 +16,18 @@ I am currently a graduate student, majored in Biomedical Engineering, at [Shangh
 
 ## Education
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 120px; margin-right: 10px;">
+  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 110px; margin-right: 10px;">
   <div>
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2023 - Present<br>
     <em>M.S.</em> in Biomedical Engineering<br>
-    Supervisor: Prof. Zhiming Cui<br>
+    Supervisor: <a href="https://shanghaitech-impact.github.io/">Zhiming Cui</a><br>
     GPA: 3.93/4, Honor: <em>National Scholarship</em>
   </div>
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 100px; margin-right: 10px;">
+  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 110px; margin-right: 10px;">
   <div>
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2019 - Jun. 2023<br>
@@ -38,7 +38,7 @@ I am currently a graduate student, majored in Biomedical Engineering, at [Shangh
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./assets/img/highschool.png" alt="ShanghaiTech University Logo" style="width: 100px; margin-right: 10px;">
+  <img src="./assets/img/highschool.png" alt="ShanghaiTech University Logo" style="width: 110px; margin-right: 10px;">
   <div>
     <strong>Changzhou Senior High School of Jiangsu Province, Jiangsu, China</strong><br>
     Sept. 2016 - Jun. 2019<br>
