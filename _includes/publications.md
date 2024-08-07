@@ -18,7 +18,7 @@ The code is written in Markdown and is intended to be used in a website or web p
 -->
 <h1 id="publications"></h1>
 
-<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=2gXabhsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 30px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=2gXabhsAAAAJ" rel="noopener noreferrer" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 
 <div class="publications">
@@ -31,12 +31,12 @@ The code is written in Markdown and is intended to be used in a website or web p
           <abbr class="badge">MICCAI</abbr>
         </div>
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://arxiv.org/pdf/2407.11419">TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs</a></div>
+          <div class="title"><a href="https://arxiv.org/pdf/2407.11419" rel="noopener noreferrer" target="_blank">TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs</a></div>
           <div class="author">Chenfan Xu, Zhentao Liu, Yuan Liu, <strong><u>Yulong Dou</u></strong>, Jiamin Wu, Jiepeng Wang, Minjiao Wang, Dinggang Shen, Zhiming Cui</div>
           <div class="publisher"><em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.</em></div>
           <div class="links">
-            <a href="https://arxiv.org/pdf/2407.11419" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-            <a href="https://github.com/ShanghaiTech-IMPACT/TeethDreamer" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            <a href="https://arxiv.org/pdf/2407.11419" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="https://github.com/ShanghaiTech-IMPACT/TeethDreamer" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">Code</a>
           </div>
         </div>
       </div>
@@ -49,14 +49,14 @@ The code is written in Markdown and is intended to be used in a website or web p
           <abbr class="badge">BMVC</abbr>
         </div>
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://proceedings.bmvc2023.org/322/">3D Structure-guided Network for Tooth Alignment in 2D Photograph</a></div>
+          <div class="title"><a href="https://proceedings.bmvc2023.org/322/" rel="noopener noreferrer" target="_blank">3D Structure-guided Network for Tooth Alignment in 2D Photograph</a></div>
           <div class="author"><strong><u>Yulong Dou</u></strong>, Lanzhuju Mei, Dinggang Shen, Zhiming Cui</div>
           <div class="publisher"><em>The 34th British Machine Vision Conference (BMVC), 2023.</em></div>
           <div class="links">
-            <a href="https://proceedings.bmvc2023.org/322/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-            <a href="https://papers.bmvc2023.org/0322.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-            <a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0322_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-            <a href="https://github.com/ShanghaiTech-IMPACT/3D-Structure-guided-Network-for-Tooth-Alignment-in-2D-Photograph" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+            <a href="https://proceedings.bmvc2023.org/322/" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">Project Page</a>
+            <a href="https://papers.bmvc2023.org/0322.pdf" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0322_poster.pdf" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">Poster</a>
+            <a href="https://github.com/ShanghaiTech-IMPACT/3D-Structure-guided-Network-for-Tooth-Alignment-in-2D-Photograph" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">Code</a>
           </div>
         </div>
       </div>
