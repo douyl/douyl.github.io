@@ -21,7 +21,7 @@ I am currently a graduate student, majored in Biomedical Engineering, at [Shangh
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2023 - Present<br>
     <em>M.S.</em> in Biomedical Engineering<br>
-    Supervisor: Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener" target="_blank">Zhiming Cui</a><br>
+    Supervisor: Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a><br>
     GPA: 3.93/4, Honor: <em>National Scholarship</em>
   </div>
 </div>
@@ -32,7 +32,7 @@ I am currently a graduate student, majored in Biomedical Engineering, at [Shangh
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2019 - Jun. 2023<br>
     <em>B.E.</em> in Biomedical Engineering<br>
-    Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener" target="_blank">Dinggang Shen</a><br>
+    Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a><br>
     GPA: 3.68/4, Rank: 2/19, Honor: <em>Outstanding Graduate</em>
   </div>
 </div>
