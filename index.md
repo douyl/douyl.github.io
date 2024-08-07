@@ -43,7 +43,7 @@ I am currently a graduate student, majored in Biomedical Engineering, at <a href
     <strong>Changzhou Senior High School of Jiangsu Province, Jiangsu, China</strong><br>
     Sept. 2016 - Jun. 2019<br>
     High School Diploma<br>
-    Gaokao score: 394/480, Provincial ranking: 3492/213k
+    Gaokao score: 394/480, Provincial ranking: 3493/213k
   </div>
 </div>
 
