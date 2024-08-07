@@ -33,7 +33,7 @@ I am currently a graduate student, majored in Biomedical Engineering, at <a href
     Sept. 2019 - Jun. 2023<br>
     <em>B.E.</em> in Biomedical Engineering<br>
     Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a><br>
-    GPA: 3.68/4, Rank: 2/19, Honor: <em>Outstanding Graduate</em>
+    GPA: 3.68/4, Ranking: 2/19, Honor: <em>Outstanding Graduate</em>
   </div>
 </div>
 
@@ -42,7 +42,8 @@ I am currently a graduate student, majored in Biomedical Engineering, at <a href
   <div>
     <strong>Changzhou Senior High School of Jiangsu Province, Jiangsu, China</strong><br>
     Sept. 2016 - Jun. 2019<br>
-    High School Diploma
+    High School Diploma<br>
+    Gaokao score: 394/480, Provincial ranking: 3896/22k
   </div>
 </div>
 
