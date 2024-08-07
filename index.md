@@ -6,8 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a graduate student, majored in Biomedical Engineering, at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working under the mentorship of Prof. [Zhiming Cui](https://shanghaitech-impact.github.io/) and Prof. [Dinggang Shen](https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao). 
-Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of outstanding graduate in 2023.
+I am currently a graduate student, majored in Biomedical Engineering, at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working under the mentorship of Prof. [Zhiming Cui](https://shanghaitech-impact.github.io/). Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of outstanding graduate in 2023.
 
 ## Research Interest
 - **Medical Imaging:** Medical Image Computing and Analysis, Computer Assisted Intervention
@@ -17,12 +16,12 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
 
 ## Education
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 100px; margin-right: 10px;">
+  <img src="./assets/img/ShanghaiTech_Logo.png" alt="ShanghaiTech University Logo" style="width: 120px; margin-right: 10px;">
   <div>
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2023 - Present<br>
     <em>M.S.</em> in Biomedical Engineering<br>
-    <!-- Supervisor: Prof. Zhiming Cui<br> -->
+    Supervisor: Prof. Zhiming Cui<br>
     GPA: 3.93/4, Honor: <em>National Scholarship</em>
   </div>
 </div>
@@ -33,6 +32,7 @@ Previously, I spent four years at ShanghaiTech University and received my B.Eng.
     <strong>ShanghaiTech University, Shanghai, China</strong><br>
     Sept. 2019 - Jun. 2023<br>
     <em>B.E.</em> in Biomedical Engineering<br>
+    Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao">Dinggang Shen</a><br>
     GPA: 3.68/4, Rank: 2/19, Honor: <em>Outstanding Graduate</em>
   </div>
 </div>
