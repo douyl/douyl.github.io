@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a graduate student, majored in Biomedical Engineering, at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), working under the mentorship of Prof. [Zhiming Cui](https://shanghaitech-impact.github.io/). Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of outstanding graduate in 2023.
+I am currently a graduate student, majored in Biomedical Engineering, at <a href="https://www.shanghaitech.edu.cn/" rel="noopener noreferrer" target="_blank">ShanghaiTech University</a>, working under the mentorship of Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a>. Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of outstanding graduate in 2023.
 
 ## Research Interest
 - **Medical Imaging:** Medical Image Computing and Analysis, Computer Assisted Intervention
