@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a graduate student, majored in Biomedical Engineering, at <a href="https://www.shanghaitech.edu.cn/" rel="noopener noreferrer" target="_blank">ShanghaiTech University</a>, working under the mentorship of Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a>. Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of outstanding graduate in 2023. During undergrad, I conducted two years of research training under the supervision of Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a><br>.
+I am currently a graduate student, majored in Biomedical Engineering, at <a href="https://www.shanghaitech.edu.cn/" rel="noopener noreferrer" target="_blank">ShanghaiTech University</a>, working under the mentorship of Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a>. Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of outstanding graduate in 2023. During my undergraduate, I conducted two years of research training under the supervision of Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a><br>.
 
 ## Research Interest
 - **Medical Imaging:** Medical Image Computing and Analysis, Computer Assisted Intervention
