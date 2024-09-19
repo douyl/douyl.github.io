@@ -13,25 +13,6 @@
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5nrmyu6wxer&amp;m=8&amp;c=baff00&amp;cr1=ffc000&amp;f=arial&amp;l=1" async="async"></script>
 
 <!-- footer -->
-<!-- <footer style="display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; border-top: 1px solid #ddd; margin-top: 30px;">
-    <div id="last-update" style="font-size: 14px;">
-        © Yulong Dou
-        <span id="update-time">- Last Update: </span>
-    </div>
-    <div>
-        <img src="path_to_your_logo_image.png" alt="Logo" style="height: 50px;">
-    </div>
-</footer>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const updateElement = document.getElementById('update-time');
-        const lastUpdate = new Date(document.lastModified);
-        const formattedDate = lastUpdate.toISOString().split('T')[0];
-        updateElement.textContent += formattedDate;
-    });
-</script> -->
-
 <hr style="border: 0.5px solid #ddd; margin-top: 30px;">
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0; font-size: 14px;">
     <div id="last-update">
@@ -40,18 +21,11 @@
     </div>
     <div style="display: flex; gap: 10px;">
         <img src="./assets/img/ShanghaiTech_Logo.png" alt="Logo 1" style="height: 50px;">
-        <img src="./assets/img/impact_logo.jpg" alt="Logo 2" style="height: 50px;">
+        <img src="./assets/img/impact_logo.jpg" alt="Logo 2" style="height: 100px;">
     </div>
 </div>
 
-<!-- <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        const updateElement = document.getElementById('update-time');
-        const lastUpdate = new Date(document.lastModified);
-        const formattedDate = lastUpdate.toISOString().replace('T', ' ').substring(0, 16);
-        updateElement.textContent += formattedDate;
-    });
-</script> -->
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         const updateElement = document.getElementById('update-time');
