@@ -32,24 +32,42 @@
     });
 </script> -->
 
-<hr style="border: 1px solid #ddd; margin-top: 30px;">
+<hr style="border: 0.5px solid #ddd; margin-top: 30px;">
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0; font-size: 14px;">
     <div id="last-update">
         © Yulong Dou <br>
         <span id="update-time">- Last Update: </span>
     </div>
     <div style="display: flex; gap: 10px;">
-        <img src="path_to_logo_1.png" alt="Logo 1" style="height: 50px;">
-        <img src="path_to_logo_2.png" alt="Logo 2" style="height: 50px;">
-        <img src="path_to_logo_3.png" alt="Logo 3" style="height: 50px;">
+        <img src="./assets/img/ShanghaiTech_Logo.png" alt="Logo 1" style="height: 50px;">
+        <img src="./assets/img/impact_logo.jpg" alt="Logo 2" style="height: 50px;">
     </div>
 </div>
 
-<script>
+<!-- <script>
     document.addEventListener('DOMContentLoaded', function () {
         const updateElement = document.getElementById('update-time');
         const lastUpdate = new Date(document.lastModified);
         const formattedDate = lastUpdate.toISOString().replace('T', ' ').substring(0, 16);
+        updateElement.textContent += formattedDate;
+    });
+</script> -->
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const updateElement = document.getElementById('update-time');
+        const lastUpdate = new Date(document.lastModified);
+        
+        // Convert time to UTC+8 (East Asia time zone)
+        const utc8Offset = 8 * 60; // 8 hours in minutes
+        const localTime = new Date(lastUpdate.getTime() + (utc8Offset * 60 * 1000));
+        
+        const year = localTime.getUTCFullYear();
+        const month = String(localTime.getUTCMonth() + 1).padStart(2, '0');
+        const day = String(localTime.getUTCDate()).padStart(2, '0');
+        const hours = String(localTime.getUTCHours()).padStart(2, '0');
+        const minutes = String(localTime.getUTCMinutes()).padStart(2, '0');
+        
+        const formattedDate = `${year}-${month}-${day} ${hours}:${minutes} UTC+8`;
         updateElement.textContent += formattedDate;
     });
 </script>
