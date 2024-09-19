@@ -21,7 +21,7 @@
     </div>
     <div style="display: flex; gap: 10px;">
         <img src="./assets/img/ShanghaiTech_Logo.png" alt="Logo 1" style="height: 50px;">
-        <img src="./assets/img/impact_logo.jpg" alt="Logo 2" style="height: 40px;">
+        <img src="./assets/img/impact_logo.jpg" alt="Logo 2" style="height: 50px;">
     </div>
 </div>
 
