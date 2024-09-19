@@ -35,11 +35,13 @@
 <hr style="border: 1px solid #ddd; margin-top: 30px;">
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 0; font-size: 14px;">
     <div id="last-update">
-        © Yulong Dou
+        © Yulong Dou <br>
         <span id="update-time">- Last Update: </span>
     </div>
-    <div>
-        <img src="path_to_your_logo_image.png" alt="Logo" style="height: 50px;">
+    <div style="display: flex; gap: 10px;">
+        <img src="path_to_logo_1.png" alt="Logo 1" style="height: 50px;">
+        <img src="path_to_logo_2.png" alt="Logo 2" style="height: 50px;">
+        <img src="path_to_logo_3.png" alt="Logo 3" style="height: 50px;">
     </div>
 </div>
 
@@ -47,7 +49,7 @@
     document.addEventListener('DOMContentLoaded', function () {
         const updateElement = document.getElementById('update-time');
         const lastUpdate = new Date(document.lastModified);
-        const formattedDate = lastUpdate.toISOString().split('T')[0];
+        const formattedDate = lastUpdate.toISOString().replace('T', ' ').substring(0, 16);
         updateElement.textContent += formattedDate;
     });
 </script>
