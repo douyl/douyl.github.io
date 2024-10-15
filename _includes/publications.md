@@ -31,7 +31,7 @@ The code is written in Markdown and is intended to be used in a website or web p
           <abbr class="badge">MICCAI</abbr>
         </div>
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="https://arxiv.org/pdf/2407.11419" rel="noopener noreferrer" target="_blank">TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs</a></div>
+          <div class="title"><a href="https://shanghaitech-impact.github.io/TeethDreamer/" rel="noopener noreferrer" target="_blank">TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs</a></div>
           <div class="author">Chenfan Xu, Zhentao Liu, Yuan Liu, <strong><u>Yulong Dou</u></strong>, Jiamin Wu, Jiepeng Wang, Minjiao Wang, Dinggang Shen, Zhiming Cui</div>
           <div class="publisher"><em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.</em></div>
           <div class="links">
