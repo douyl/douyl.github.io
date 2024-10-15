@@ -30,9 +30,9 @@
 
 <h4 style="margin:0 10px 0;">Other Services</h4>
 <ul style="margin:0 0 20px;">  
-  <li><strong>[Sept. 2023 - Present]</strong> Founding President, Student Development Committee, School of Biomedical Engineering, ShanghaiTech.</li>
   <li><strong>[Aug. 2020 - Present]</strong> Admission Volunteer, Jiangsu Province Undergraduate Admissions Team, ShanghaiTech.</li>
-  <li><strong>[Nov. 2023 - Present]</strong> Student Representative of the 4th ShanghaiTech University Student Congress.</li>
+  <li><strong>[Sept. 2023 - Oct. 2024]</strong> Founding President, Student Development Committee, School of Biomedical Engineering, ShanghaiTech, with the honor of advanced individual.</li>
+  <li><strong>[Nov. 2023 - Oct. 2024]</strong> Student Representative of the 4th ShanghaiTech University Student Congress.</li>
   <li><strong>[Jul. 2021 - Nov. 2021]</strong> Leader, "Medical Devices" Team, Industrial Practice Program for 2019 Undergraduates, ShanghaiTech.</li>
   <li><strong>[Sept. 2020 - Jun. 2023]</strong> Student Administrative Assistant, Office of Student Affairs, ShanghaiTech.</li>
   <li><strong>[Sept. 2019 - Jun. 2023]</strong> Student Leader of Mentor Group, ShangDao College, ShanghaiTech University.</li>

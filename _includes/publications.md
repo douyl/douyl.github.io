@@ -23,7 +23,7 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 <div class="publications">
   <ol class="bibliography">
-    <!-- Publication 1 -->
+    <!-- Publication 2 -->
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -35,13 +35,14 @@ The code is written in Markdown and is intended to be used in a website or web p
           <div class="author">Chenfan Xu, Zhentao Liu, Yuan Liu, <strong><u>Yulong Dou</u></strong>, Jiamin Wu, Jiepeng Wang, Minjiao Wang, Dinggang Shen, Zhiming Cui</div>
           <div class="publisher"><em>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2024.</em></div>
           <div class="links">
-            <a href="https://arxiv.org/pdf/2407.11419" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">PDF</a>
+            <a href="https://shanghaitech-impact.github.io/TeethDreamer/" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">Project Page</a>
+            <a href="https://papers.miccai.org/miccai-2024/paper/1038_paper.pdf" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">PDF</a>
             <a href="https://github.com/ShanghaiTech-IMPACT/TeethDreamer" class="btn btn-sm z-depth-0" role="button" rel="noopener noreferrer" target="_blank" style="font-size:12px;">Code</a>
           </div>
         </div>
       </div>
     </li>
-    <!-- Publication 2 -->
+    <!-- Publication 1 -->
     <li>
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
