@@ -23,8 +23,8 @@
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 <ul style="margin:0 0 5px;">
-  <li>BME1047 Physiology, School of Life Science and Technology, ShanghaiTech, 2021-2022 Spring.</li>
   <li>BME2113 Algorithm Design and Analysis (Python), School of Biomedical Engineering, ShanghaiTech, 2024-2025 Fall.</li>
+  <li>BME1047 Physiology, School of Life Science and Technology, ShanghaiTech, 2021-2022 Spring.</li>
 </ul>
 
 
