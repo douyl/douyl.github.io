@@ -7,8 +7,8 @@
 <li><strong>[Jun. 2024]</strong> Advanced Individual, School of Biomedical Engineering, ShanghaiTech University.</li>
 <li><strong>[Dec. 2023]</strong> Top 10 Posters, 1st Annual Research Day, School of Biomedical Engineering, ShanghaiTech University.</li>
 <li><strong>[Oct. 2023]</strong> <strong>National Scholarship</strong>, 2023.</li>
-<li><strong>[Oct. 2023]</strong> <strong>Outstanding Graduate</strong> of ShanghaiTech (Top 10%), 2023.</li>
 <li><strong>[Aug. 2023]</strong> <strong>China National Scholarship for Self-improvement Stars</strong> (44 recipients in Shanghai), 2023.</li>
+<li><strong>[Jun. 2023]</strong> <strong>Outstanding Graduate</strong> of ShanghaiTech (Top 10%), 2023.</li>
 <li><strong>[Oct. 2022]</strong> National Encouragement Scholarship, 2022.</li>
 <li><strong>[Oct. 2022]</strong> <strong>Merit Student</strong> of ShanghaiTech (Top 10%), 2021-2022.</li>
 <li><strong>[Nov. 2021]</strong> Outstanding Team, Social Practice Program for 2019 Undergraduates, ShanghaiTech University</li>
