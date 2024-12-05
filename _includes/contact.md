@@ -6,7 +6,7 @@
 <br />
 <strong>Office Location:</strong> 305-D, School of Biomedical Engineering, ShanghaiTech University
 <br />
-<strong>Email:</strong> <email>douyl2023@shanghaitech.edu.cn</email>
+<strong>Email:</strong> <email>douyl2023[at]shanghaitech.edu.cn</email>
 <br />
 
 <!-- global map 世界地图 -->
