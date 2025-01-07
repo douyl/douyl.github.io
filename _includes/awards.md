@@ -5,7 +5,7 @@
 <ul>
 
 <li><strong>[Dec. 2024]</strong> Outstanding Student Cadre of ShanghaiTech, 2023-2024.</li>
-<li><strong>[Dec. 2024]</strong> <strong>Merit Student</strong> of ShanghaiTech (Top 10%), 2023-2024.</li>
+<li><strong>[Dec. 2024]</strong> <strong>Outstanding Student</strong> of ShanghaiTech (Top 10%), 2023-2024.</li>
 <li><strong>[Jun. 2024]</strong> Advanced Individual, School of Biomedical Engineering, ShanghaiTech University.</li>
 <li><strong>[Dec. 2023]</strong> Top 10 Posters, 1st Annual Research Day, School of Biomedical Engineering, ShanghaiTech University.</li>
 <li><strong>[Oct. 2023]</strong> <strong>National Scholarship</strong>, 2023.</li>
