@@ -1,11 +1,12 @@
 primary_name: "Yulong Dou"
-secondary_name: ""
+secondary_name: "窦雨龙"
 navbar_name: ""
 
 positions:
 - logo: /assets/images/badges/ShanghaiTech_Logo.png  # Logo is optional
   name: Graduate Student
-# - name: Position 2 without logo
+- name: School of Biomedical Engineering, ShanghaiTech University
+- name: 393 Middle Huaxia Road, Pudong, Shanghai, China
 
 
 email: "douyl2023@shanghaitech.edu.cn"
@@ -29,7 +30,13 @@ short_bio: >-
     outstanding graduate in 2023. During undergrad, I conducted two years of research training under the supervision 
     of Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a>.
   </p>
-
+  <p>
+    My recent research interest lies in: <br>
+    <small>•</small> Artificial Intelligence: Generative Models, Diffusion Model <br>
+    <small>•</small> Medical Imaging: Medical Image Computing and Analysis, Computer Assisted Intervention <br>
+    <small>•</small> Digital Orthodontics: Orthodontic Comparison Photograph Generation, Learning-based Tooth Alignment
+  </p>
+  
 portrait_url: /assets/images/photos/yulong.jpg
 # portrait_caption: >-
 #   Photo by my GF at Suzhou China.
@@ -38,36 +45,33 @@ education:
 - name: ShanghaiTech University, Shanghai, China
   logo: /assets/images/badges/ShanghaiTech_Logo.png
   position: >- 
-    School of Biomedical Engineering <br/>
-    M.S. Student
-    Supervisor: Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a><br>
-    GPA: <a href="./assets/images/certificates/graduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.94</a>/4, Honor: <em>National Scholarship</em>
+    M.S. in Biomedical Engineering <br>
+    Supervisor: Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a> <br>
+    GPA: <a href="./assets/images/certificates/graduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.94</a>/4 <br>
+    Honor: <b>National Scholarship</b>
   date: Sep. 2023 - Present
 - name: ShanghaiTech University, Shanghai, China
   logo: /assets/images/badges/ShanghaiTech_Logo.png
   position: >- 
-    B.S. in Biomedical Engineering
-    Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a><br>
-    GPA: <a href="./assets/images/certificates/undergraduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.68</a>/4, Ranking: 2/19, Honor: <em>Outstanding Graduate</em>
+    B.S. in Biomedical Engineering <br>
+    Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a> <br>
+    GPA: <a href="./assets/images/certificates/undergraduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.68</a>/4, Ranking: 2/19 <br>
+    Honor: <b>Outstanding Graduate</b>
   date: Sep. 2019 - Jun. 2023
 - name: Changzhou Senior High School of Jiangsu Province, Jiangsu, China
   logo: /assets/images/badges/highschool.png
   position: >- 
-    High School Diploma
-    Gaokao score: <a href="../assets/images/certificates/gaokao score.pdf" rel="noopener noreferrer" target="_blank">394</a>/480, Provincial ranking: 3493/213k
+    High School Diploma <br>
+    Gaokao score: <a href="../assets/images/certificates/gaokao score.pdf" rel="noopener noreferrer" target="_blank">394</a>/480 <br>
+    Provincial ranking: 3493/213k
   date: Sep. 2016 - Jun. 2019
 
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021

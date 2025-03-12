@@ -1,14 +1,17 @@
 {% assign publications = include.publications %}
-<div class="my-3 p-0 bg-white shadow-sm rounded-sm">
-    <h6 class="border-bottom border-gray p-3 mb-0">
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h6 class="p-3 mb-0 border-bottom border-gray">
         {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-star"></i> Selected Recent Publications{% endif %} 
-        <a href="{{ 'publications' | relative_url }}">(view all <i class="fas fa-angle-double-right"></i>)</a>
+        <a href="{{ 'publications' | relative_url }}"><small>(view all <i class="fas fa-angle-double-right"></i>)</small></a>
     </h6>
-    {% for item in publications limit:include.limit %}
-        {% include widgets/publication_item.html item=item first=false last=false %}    
-    {% endfor %}
+    <div class="px-3 pb-1">
+        {% for item in publications limit:include.limit %}
+            <div class="media pt-1">
+                {% include widgets/publication_item.html item=item first=false last=false %}
+            </div>
+        {% endfor %}
+    </div>
     <h6 class="d-block p-3 mt-0 text-right">
         <a href="{{ 'publications' | relative_url }}">All publications <i class="fas fa-angle-double-right"></i></a>
     </h6>
 </div>
-

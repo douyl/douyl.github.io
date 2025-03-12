@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col">
-        <div class="card border-0 shadow-sm bg-white">
+        <div class="my-3 bg-white shadow-sm rounded-sm">
             <div class="card-body p-5">
                 <div class="row">
                     <div class="col">
@@ -10,7 +10,7 @@
                             <img 
                                 src="{{ site.data.profile.portrait_url | relative_url }}" 
                                 class="figure-img img-fluid img-thumbnail" 
-                                style="height: 200px;"
+                                style="height: 400px;"
                                 data-toggle="tooltip" 
                                 data-placement="top" 
                                 title="{{ site.data.profile.portrait_caption }}">
@@ -18,7 +18,7 @@
                         {% endif %}
 
                         <div class="d-flex">
-                            <div class="h1 font-weight-normal">
+                            <div class="h1">
                                 {{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small>
                             </div>
                             {% if site.data.profile.portrait_url %}
@@ -29,7 +29,7 @@
                             </div>
                             {% endif %}
                         </div>
-                        <div class="text-profile-position">
+                        <div class="median-size">
                             {% for position in site.data.profile.positions %}
                             {% if position.logo -%}
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
@@ -37,21 +37,26 @@
                             {{ position.name }}<br/>
                             {% endfor %}
                         </div>
-                        <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
+                        <div class="mt-4" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
-                        {% if site.data.profile.cv_link %}
+                        <!-- {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
-                        {% endif %}
+                        {% endif %} -->
                     </div>
         
                 </div>
                 <hr />
                 <div class="row">
                     <div class="col">
+
                         <a class="pr-3 no-break" href="mailto:{{ site.data.profile.email | encode_email }}">
-                            <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
+                            <i class="fas fa-at"></i> <span>{{ site.data.profile.email | replace: "@", "(at)" }}</span>
                         </a>
+                        {% if site.data.profile.cv_link %}
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae 
+                            </a>
+                        {% endif %}
 
                         {% if site.data.profile.gscholar %}
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
