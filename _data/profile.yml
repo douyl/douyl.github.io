@@ -1,18 +1,18 @@
-primary_name: "Yulong"
-secondary_name: "Dou"
+primary_name: "Yulong Dou"
+secondary_name: ""
 navbar_name: ""
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- logo: /assets/images/badges/ShanghaiTech_Logo.png  # Logo is optional
+  name: Graduate Student
+# - name: Position 2 without logo
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "douyl2023@shanghaitech.edu.cn"
+cv_link: link-to-your-cv-file
+gscholar: 2gXabhsAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: douyl
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,29 +22,41 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I am currently a graduate student, majored in Biomedical Engineering, 
+    at <a href="https://www.shanghaitech.edu.cn/" rel="noopener noreferrer" target="_blank">ShanghaiTech University</a>, 
+    working under the mentorship of Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a>. 
+    Previously, I spent four years at ShanghaiTech University and received my B.Eng. degree with the honor of 
+    outstanding graduate in 2023. During undergrad, I conducted two years of research training under the supervision 
+    of Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a>.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/yulong.jpg
+# portrait_caption: >-
+#   Photo by my GF at Suzhou China.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: ShanghaiTech University, Shanghai, China
+  logo: /assets/images/badges/ShanghaiTech_Logo.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    School of Biomedical Engineering <br/>
+    M.S. Student
+    Supervisor: Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a><br>
+    GPA: <a href="./assets/images/certificates/graduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.94</a>/4, Honor: <em>National Scholarship</em>
+  date: Sep. 2023 - Present
+- name: ShanghaiTech University, Shanghai, China
+  logo: /assets/images/badges/ShanghaiTech_Logo.png
+  position: >- 
+    B.S. in Biomedical Engineering
+    Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a><br>
+    GPA: <a href="./assets/images/certificates/undergraduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.68</a>/4, Ranking: 2/19, Honor: <em>Outstanding Graduate</em>
+  date: Sep. 2019 - Jun. 2023
+- name: Changzhou Senior High School of Jiangsu Province, Jiangsu, China
+  logo: /assets/images/badges/highschool.png
+  position: >- 
+    High School Diploma
+    Gaokao score: <a href="../assets/images/certificates/gaokao score.pdf" rel="noopener noreferrer" target="_blank">394</a>/480, Provincial ranking: 3493/213k
+  date: Sep. 2016 - Jun. 2019
+
 
 # experience:
 # - name: Peking University
