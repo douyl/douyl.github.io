@@ -2,7 +2,7 @@
 
 
 <div class="my-3 bg-white shadow-sm rounded-sm">
-    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
+    <h2 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h2>
     <div class="px-3 pb-1">
         {% for year in news_by_year %}
         <div class="media py-3 {% if forloop.index != 1 %}border-top border-gray{% endif %}">
@@ -10,8 +10,8 @@
             <div class="media-body">
                 {% for item in year.items %}
                 <div class="my-1 d-flex">
-                    <div>• {{ item.title }}</div>
-                    <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b. %Y" }}</i></div>
+                    <div> • &nbsp; {{ item.title }}</div>
+                    <div class="ml-auto mt-auto text-muted no-break median-size"><i>{{ item.date | date: "%b. %Y" }}</i></div>
                 </div>
                 {% endfor %}
             </div>

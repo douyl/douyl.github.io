@@ -1,0 +1,17 @@
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h2 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-trophy"></i> Awards</h2>
+    <div class="px-3 pb-1">
+        {% if site.data.profile.awards %}
+            {% assign sorted_awards = site.data.profile.awards | sort: 'date' | reverse %}
+            {% for item in sorted_awards %}
+            <div class="media-body ">
+                {% assign not_first = true %}
+                <div class="my-1 d-flex">
+                    <div> • &nbsp;&nbsp; {{ item.name }}</div>
+                        <div class="ml-auto mt-auto text-muted no-break median-size"><i>{{ item.date | date: "%b. %Y" }}</i></div>
+                </div>
+            </div>
+            {% endfor %}
+        {% endif %}
+    </div>
+</div>

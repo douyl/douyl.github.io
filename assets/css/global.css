@@ -17,10 +17,21 @@ body {
     font-weight: 400;
 }
 
-h1, h2, h3, h4, h5, h6,
+/* h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: 700;
     font-size: 25.0px;
+} */
+
+h1, h2, h3, h4,
+.h1, .h2, .h3, .h4 {
+    font-weight: 700;
+    font-size: 25.0px;
+}
+h5, h6,
+.h5, .h6 {
+    font-weight: 700;
+    font-size: 22.0px;
 }
 
 .text-profile-position {
@@ -86,7 +97,7 @@ div.lazy {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     transform: translateY(-3px); /* 向上移动 */
     box-shadow: 5 10px 20px rgba(0, 0, 0, 0.2);
-    background: linear-gradient(45deg, #e1aaaa0f, #ffffff); /* 添加渐变背景 */
+    background: linear-gradient(45deg, #97ebe90f, #ffffff); /* 添加渐变背景 */
 }
 
 

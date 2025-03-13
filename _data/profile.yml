@@ -10,7 +10,7 @@ positions:
 
 
 email: "douyl2023@shanghaitech.edu.cn"
-cv_link: link-to-your-cv-file
+# cv_link: link-to-your-cv-file
 gscholar: 2gXabhsAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: douyl
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -32,9 +32,9 @@ short_bio: >-
   </p>
   <p>
     My recent research interest lies in: <br>
-    <small>•</small> Artificial Intelligence: Generative Models, Diffusion Model <br>
-    <small>•</small> Medical Imaging: Medical Image Computing and Analysis, Computer Assisted Intervention <br>
-    <small>•</small> Digital Orthodontics: Orthodontic Comparison Photograph Generation, Learning-based Tooth Alignment
+    <small>•</small> &nbsp; Artificial Intelligence: Generative Models, Diffusion Model <br>
+    <small>•</small> &nbsp; Medical Imaging: Medical Image Computing and Analysis, Computer Assisted Intervention <br>
+    <small>•</small> &nbsp; Digital Orthodontics: Orthodontic Comparison Photograph Generation, Learning-based Tooth Alignment
   </p>
   
 portrait_url: /assets/images/photos/yulong.jpg
@@ -68,10 +68,34 @@ education:
 
 
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1 
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
+awards:
+- name: National Encouragement Scholarship, 2020.
+  date: 2020-10-01
+- name: <strong><i>Merit Student</strong></i> of ShanghaiTech (Top 10%), 2020-2021.
+  date: 2021-10-01
+- name: National Encouragement Scholarship, 2021.
+  date: 2021-10-02
+- name: Outstanding Team, Industrial Practice Program for 2019 Undergraduates, ShanghaiTech University.
+  date: 2021-10-23
+- name: Outstanding Individual, Industrial Practice Program for 2019 Undergraduates, ShanghaiTech University.
+  date: 2021-10-23
+- name: Outstanding Team, Social Practice Program for 2019 Undergraduates, ShanghaiTech University.
+  date: 2021-11-20
+- name: <strong><i>Merit Student</strong></i> of ShanghaiTech (Top 10%), 2021-2022.
+  date: 2022-10-01
+- name: National Encouragement Scholarship, 2022.
+  date: 2022-10-01
+- name: <strong><i>Outstanding Graduate</strong></i> of ShanghaiTech (Top 10%), 2023.
+  date: 2023-06-30
+- name: <strong><i>China National Scholarship for Self-improvement Stars</strong></i> (44 recipients in Shanghai), 2023.
+  date: 2023-08-30
+- name: <strong><i>National Scholarship</strong></i>, 2023.
+  date: 2023-10-01
+- name: Top 10 Posters, 1st Annual Research Day, School of Biomedical Engineering, ShanghaiTech University.
+  date: 2023-12-01
+- name: Advanced Individual, School of Biomedical Engineering, ShanghaiTech University.
+  date: 2024-06-01
+- name: <strong><i>Outstanding Student</strong></i> of ShanghaiTech (Top 10%), 2023-2024.
+  date: 2024-12-01
+- name: Outstanding Student Leader of ShanghaiTech, 2023-2024.
+  date: 2024-12-02
