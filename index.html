@@ -15,7 +15,6 @@ title : Yulong Dou | ShanghaiTech
 <!-- {% if site.data.display.homepage.show_news %}
     {% include widgets/news_card.html %}
 {% endif %} -->
-
 {% if site.data.display.homepage.show_news %}
     {% assign count_news = site.news | size %}
     {% if count_news > 0 %}
@@ -23,11 +22,11 @@ title : Yulong Dou | ShanghaiTech
     {% endif %}
 {% endif %}
 
+
 {% if site.data.display.homepage.show_selected_publications %}
     {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
     {% 
         include widgets/publication_card.html 
         publications=pubs
-        title='<i class="fas fa-star"></i> Selected Publications'
     %}
 {% endif %}

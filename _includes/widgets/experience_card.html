@@ -5,7 +5,8 @@
             {% for item in site.data.profile.education %}
             <div class="media py-3 {% if forloop.index != 1 %}border-top border-gray{% endif %}">
                 {% assign not_first = true %}
-                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 110px; margin-right: 30px !important; margin-left: 10px !important;" class="mr-1 mt-1">
+                <!-- <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 110px; margin-right: 30px !important; margin-left: 10px !important;" class="mr-1 mt-1"> -->
+                <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 130px; padding-right: 10px; padding-left: 10px;" class="mr-1 mt-1">
                 <div class="media-body">
                     <div><b>{{ item.name }}</b></div>
                     <div class="median-size d-flex">
