@@ -12,8 +12,9 @@
             <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
             <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
-            <!-- <p class="mt-0 mb-0 mini-size text-muted">{{ item.abstract }}</p> -->
+            
             <!-- 摘要部分 -->
+            <!-- <p class="mt-0 mb-0 mini-size text-muted">{{ item.abstract }}</p> -->
             <p class="mt-0 mb-0 mini-size text-muted">
                 {{ item.abstract_short }}
                 <a href="#abstract-full" onclick="this.nextElementSibling.style.display='inline'; this.style.display='none'; this.nextElementSibling.nextElementSibling.style.display='inline';">(view more <i class="fas fa-angle-double-right"></i>)</a>
@@ -42,7 +43,15 @@
                 <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
                 <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
                 <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
-                <p class="mt-0 mb-0 mini-size text-muted">{{ item.abstract }}</p>
+                
+                <!-- 摘要部分 -->
+                <!-- <p class="mt-0 mb-0 mini-size text-muted">{{ item.abstract }}</p> -->
+                <p class="mt-0 mb-0 mini-size text-muted">
+                    {{ item.abstract_short }}
+                    <a href="#abstract-full" onclick="this.nextElementSibling.style.display='inline'; this.style.display='none'; this.nextElementSibling.nextElementSibling.style.display='inline';">(view more <i class="fas fa-angle-double-right"></i>)</a>
+                    <span id="abstract-full" style="display: none;">{{ item.abstract_full }}</span>
+                    <a href="#abstract-short" onclick="this.previousElementSibling.style.display='none'; this.previousElementSibling.previousElementSibling.style.display='inline'; this.style.display='none';" style="display: none;">(view less <i class="fas fa-angle-double-left"></i>)</a>
+                </p>
                 
                 <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                     {% for link in item.links %}
