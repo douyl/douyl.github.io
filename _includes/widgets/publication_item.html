@@ -19,7 +19,7 @@
                 {{ item.abstract_short }}
                 <a href="#abstract-full" onclick="event.preventDefault(); this.nextElementSibling.style.display='inline'; this.style.display='none'; this.nextElementSibling.nextElementSibling.style.display='inline';">(view more <i class="fas fa-angle-double-right"></i>)</a>
                 <span id="abstract-full" style="display: none;">{{ item.abstract_full }}</span>
-                <a href="#abstract-short" onclick="this.previousElementSibling.style.display='none'; this.previousElementSibling.previousElementSibling.style.display='inline'; this.style.display='none';" style="display: none;">(view less <i class="fas fa-angle-double-left"></i>)</a>
+                <a href="#abstract-short" onclick="event.preventDefault(); this.previousElementSibling.style.display='none'; this.previousElementSibling.previousElementSibling.style.display='inline'; this.style.display='none';" style="display: none;">(view less <i class="fas fa-angle-double-left"></i>)</a>
             </p>
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                 {% for link in item.links %}
