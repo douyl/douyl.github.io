@@ -1,16 +1,50 @@
-<footer class="footer">
-    <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}">
-        <div class="row my-3">
-            <div class="col-6">
-                <div class="text-muted">
-                    <i>Last updated: {{ "now" | date: "%b %Y" }}</i>
-                </div>
+
+{% if page.url == "/" or page.url == "/index.html" %}
+<footer style="margin-top: 10px; margin-bottom: 20px; font-size: 16px; text-align: left;">
+    <div class="{% if page.container_class %}{{ page.container_class }}{% else %}container-lg{% endif %}" style="display: flex; align-items: flex-end;">
+        <!-- 左侧：文字和地图 -->
+        <div style="display: flex; align-items: flex-end;">
+            <!-- 文字 -->
+            <div style="text-align: left;">
+                <div>© Yulong Dou</div>
+                <div id="update-time">- Last Update: </div>
             </div>
-            <div class="col-6">
-                <div class="text-right text-muted">
-                    {{ site.data.display.footer_text }}
-                </div>
+
+            <!-- 地图 -->
+            <div style="margin-left: 20px;"> <!-- 调整 margin-left 控制间距 -->
+                <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=cLum3i28f8lNkgXT8de4QA7iBb9gX70DftFpLAinJ3U&co=004270&cmo=00d4ff&ct=ffffff&cmn=00ff63'></script>
+            </div>
+        </div>
+
+        <!-- 右侧：Logo 1 和 Logo 2 -->
+        <div style="flex: 1; text-align: right; display: flex; align-items: flex-end; justify-content: flex-end;">
+            <div style="margin-right: 20px;">
+                <img src="./assets/images/badges/ShanghaiTech_Logo.png" alt="Logo 1" style="height: 80px;">
+            </div>
+            <div>
+                <img src="./assets/images/badges/impact_logo.jpg" alt="Logo 2" style="height: 70px;">
             </div>
         </div>
     </div>
 </footer>
+{% endif %}
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const updateElement = document.getElementById('update-time');
+        const lastUpdate = new Date(document.lastModified);
+        
+        // Convert time to UTC+8 (East Asia time zone)
+        const utc8Offset = 8 * 60; // 8 hours in minutes
+        const localTime = new Date(lastUpdate.getTime() + (utc8Offset * 60 * 1000));
+        
+        const year = localTime.getUTCFullYear();
+        const month = String(localTime.getUTCMonth() + 1).padStart(2, '0');
+        const day = String(localTime.getUTCDate()).padStart(2, '0');
+        const hours = String(localTime.getUTCHours()).padStart(2, '0');
+        const minutes = String(localTime.getUTCMinutes()).padStart(2, '0');
+        
+        const formattedDate = `${year}-${month}-${day} ${hours}:${minutes} UTC+8`;
+        updateElement.textContent += formattedDate;
+    });
+</script>

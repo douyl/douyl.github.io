@@ -93,12 +93,19 @@ div.lazy {
 
 
 /* 鼠标悬停时的效果 */
-.my-3:hover {
+/* .my-3:hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transform: translateY(-3px);
+    box-shadow: 5 10px 20px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(45deg, #97ebe90f, #ffffff);
+} */
+
+/* 鼠标悬停时的效果 */
+.custom_box:hover {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     transform: translateY(-3px); /* 向上移动 */
     box-shadow: 5 10px 20px rgba(0, 0, 0, 0.2);
     background: linear-gradient(45deg, #97ebe90f, #ffffff); /* 添加渐变背景 */
 }
-
 
 

@@ -2,7 +2,7 @@
 <!-- 根据site.data.display.homepage.services决定展示顺序 -->
 {% assign display_order = site.data.display.homepage.services | split: "," %}
 
-<div class="my-3 bg-white shadow-sm rounded-sm">
+<div class="custom_box my-3 bg-white shadow-sm rounded-sm">
     <h2 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-handshake-angle"></i> Services</h2>
     <div class="px-3 pb-1">
         {% for service_name in display_order %}
