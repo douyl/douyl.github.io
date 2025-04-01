@@ -11,7 +11,7 @@
                 {% for item in year.items %}
                 <div class="my-1 d-flex">
                     <div> • &nbsp; {{ item.title }}</div>
-                    <div class="ml-auto mt-auto text-muted no-break median-size"><i>{{ item.date | date: "%b. %Y" }}</i></div>
+                    <div class="ml-auto text-muted no-break median-size"><i>{{ item.date | date: "%b. %Y" }}</i></div>
                 </div>
                 {% endfor %}
             </div>
