@@ -6,10 +6,15 @@
         {% for item in talks %}
         <div class="media-body">
             <div class="my-1 d-flex">
-                <div> • &nbsp;&nbsp; {{ item.title }} 
-                {% if item.link %}
-                    <a href="{{ item.link }}" class="median-size"> [Link]</a>
-                {% endif %}
+                <div class="flex-grow-1">
+                    <div> • &nbsp;&nbsp; {{ item.title }} 
+                    {% if item.link %}
+                        <a href="{{ item.link }}" class="minipro-size"> [Link]</a>
+                    {% endif %}
+                    </div>
+                    {% if item.place %}
+                    <div class="minipro-size text-muted pl-4">{{ item.place }}</div>
+                    {% endif %}
                 </div>
                 <div class="ml-auto text-muted no-break median-size"><i>{{ item.date | date: "%b. %Y" }}</i></div>
             </div>
