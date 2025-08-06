@@ -1,6 +1,6 @@
 ---
 title:          "CLIK-Diffusion: Clinical Knowledge-informed Diffusion Model for Tooth Alignment"
-date:           2025-07-22
+date:           2025-08-05
 selected:       True
 pub:            "Medical Image Analysis (MedIA)"
 pub_date:       "2025"
@@ -28,7 +28,7 @@ authors:
   - Dinggang Shen
   - Zhiming Cui
 links:
-  # Project Page: https://shanghaitech-impact.github.io/TeethDreamer/
-  # Paper: https://papers.miccai.org/miccai-2024/paper/1038_paper.pdf
-  # Code: https://github.com/ShanghaiTech-IMPACT/TeethDreamer
+  Paper: https://authors.elsevier.com/a/1lYg74rfPmLfAq
+  Code: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion
+  Dataset: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion
 ---
