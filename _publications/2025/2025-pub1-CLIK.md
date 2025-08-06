@@ -30,5 +30,5 @@ authors:
 links:
   Paper: https://authors.elsevier.com/a/1lYg74rfPmLfAq
   Code: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion
-  Dataset: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion
+  Dataset: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion/blob/main/Data_Access_Agreement.pdf
 ---
