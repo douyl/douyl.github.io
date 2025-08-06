@@ -18,7 +18,7 @@ authors:
 links:
   Project Page: https://proceedings.bmvc2023.org/322
   Paper: https://papers.bmvc2023.org/0322.pdf
-  Code: https://github.com
+  Code: https://github.com/ShanghaiTech-IMPACT/3D-Structure-guided-Network-for-Tooth-Alignment-in-2D-Photograph
   Poster: https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0322_poster.pdf
 ---
 
