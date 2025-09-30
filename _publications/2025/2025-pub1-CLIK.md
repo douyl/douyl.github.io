@@ -28,7 +28,8 @@ authors:
   - Dinggang Shen
   - Zhiming Cui
 links:
-  Paper: https://authors.elsevier.com/a/1lYg74rfPmLfAq
+  # Paper: https://authors.elsevier.com/a/1lYg74rfPmLfAq
+  Paper: https://doi.org/10.1016/j.media.2025.103746
   Code: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion
   Dataset: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion/blob/main/Data_Access_Agreement.pdf
 ---
