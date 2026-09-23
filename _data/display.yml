@@ -5,7 +5,7 @@ homepage:
   show_selected_publications: true
   show_awards: true
   show_services: true
-  services: "Conference Reviewer,Membership,Teaching Assistant,Other Services"
+  services: "Journal Reviewer,Conference Reviewer,Membership,Teaching Assistant,Other Services"
   show_talks: true
   
 

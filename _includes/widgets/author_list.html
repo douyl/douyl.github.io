@@ -1,5 +1,6 @@
 {%- assign authors = include.authors -%}
 {%- assign has_eq_contrib = false -%}
+{%- assign has_dagger_eq_contrib = false -%}
 {%- assign has_corresponding = false -%}
 
 {%- for _key in authors -%}
@@ -8,6 +9,10 @@
         {%- assign key = _key | split: "*" | first -%}
         {%- assign mark = "*" -%}
         {%- assign has_eq_contrib = true -%}
+    {%- elsif last_char == "†" -%}
+        {%- assign key = _key | split: "†" | first -%}
+        {%- assign mark = "†" -%}
+        {%- assign has_dagger_eq_contrib = true -%}
     {%- elsif last_char == "#" -%}
         {%- assign key = _key | split: "#" | first -%}
         {%- assign mark = '<sup>#</sup>' -%}
@@ -45,13 +50,17 @@
 
 {%- endfor -%}
 
-{%- if has_eq_contrib or has_corresponding %}
+{%- if has_eq_contrib or has_dagger_eq_contrib or has_corresponding %}
 <mark>(
     {%- if has_eq_contrib -%}
         * <i> equal contribution</i>
     {%- endif -%}
-    {%- if has_corresponding -%}
+    {%- if has_dagger_eq_contrib -%}
         {%- if has_eq_contrib -%}, {% endif -%}
+        † <i> equal contribution</i>
+    {%- endif -%}
+    {%- if has_corresponding -%}
+        {%- if has_eq_contrib or has_dagger_eq_contrib -%}, {% endif -%}
         <sup>#</sup> <i> corresponding author</i>
     {%- endif -%}
 )</mark>

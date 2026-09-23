@@ -26,8 +26,7 @@ authors:
   - Han Zhang
   - Feng Shi
   - Dinggang Shen
-# links:
-#   Paper: https://doi.org/10.1016/j.media.2025.103746
-#   Code: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion
-#   Dataset: https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion/blob/main/Data_Access_Agreement.pdf
+links:
+  Paper: https://www.nature.com/articles/s43588-026-00963-5
+  Code: https://github.com/SaberPRC/BrainParc
 ---

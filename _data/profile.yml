@@ -33,9 +33,10 @@ short_bio: >-
   </p>
   <p>
     My recent research interest lies in: <br>
-    <small>•</small> &nbsp; Artificial Intelligence: Generative Models, Diffusion Model <br>
+    <small>•</small> &nbsp; Artificial Intelligence: Foundation Model, Generative Models, Diffusion Model <br>
     <small>•</small> &nbsp; Medical Imaging: Medical Image Computing and Analysis, Computer Assisted Intervention <br>
-    <small>•</small> &nbsp; Digital Orthodontics: Orthodontic Comparison Photograph Generation, Learning-based Tooth Alignment
+    <small>•</small> &nbsp; Brain-Computer Interface: EEG Processing and Analysis, Pre-trained Foundation Models for EEG <br>
+    <small>•</small> &nbsp; Digital Orthodontics: Post-orthodontic Visualization, Learning-based Tooth Alignment
   </p>
   
 portrait_url: /assets/images/photos/yulong.jpg
@@ -48,7 +49,7 @@ education:
   position: >- 
     Ph.D. in Computer Science <br>
     Supervisor: Prof. <a href="https://scholar.google.com/citations?user=v6VYQC8AAAAJ&hl=zh-CN&oi=ao" rel="noopener noreferrer" target="_blank">Dinggang Shen</a>, Prof. <a href="https://shanghaitech-impact.github.io/" rel="noopener noreferrer" target="_blank">Zhiming Cui</a> <br>
-    GPA: <a href="./assets/images/certificates/graduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.94</a>/4 <br>
+    GPA: <a href="./assets/images/certificates/graduate academic record.pdf" rel="noopener noreferrer" target="_blank">3.87</a>/4 <br>
     Honor: <b>National Scholarship</b>
   date: Sep. 2023 - Present
 - name: ShanghaiTech University, Shanghai, China

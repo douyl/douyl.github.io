@@ -1,7 +1,7 @@
 ---
 title:          "TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs"
 date:           2024-10-01
-selected:       True
+selected:       false
 pub:            "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)"
 pub_date:       "2024"
 abstract_short: >-

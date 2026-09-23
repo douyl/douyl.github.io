@@ -1,9 +1,24 @@
 "Yulong Dou":
   bold: true
   underline: true
+  url: https://arxiv.org/search/cs?searchtype=author&query=Dou,+Y
+
+"Han Wu":
+  url: https://arxiv.org/search/cs?searchtype=author&query=Wu,+H
+
+"Guo Chen":
+  url: https://arxiv.org/search/cs?searchtype=author&query=Chen,+G
+
+"Fangmao Ju":
+  url: https://arxiv.org/search/cs?searchtype=author&query=Ju,+F
+
+"Zhiming Cui":
+  url: https://arxiv.org/search/cs?searchtype=author&query=Cui,+Z
+
+"Dinggang Shen":
+  url: https://arxiv.org/search/cs?searchtype=author&query=Shen,+D
 
 
 "Robert White":
   url: https://www.google.com/?q=Robert+White
-
 

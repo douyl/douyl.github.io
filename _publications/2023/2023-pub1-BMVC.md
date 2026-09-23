@@ -9,6 +9,7 @@ abstract_short: >-
 abstract_full: >-
   As such, generating a 2D photograph depicting aligned teeth prior to orthodontic treatment is crucial for effective dentist-patient communication and, more importantly, for encouraging patients to accept orthodontic intervention. In this paper, we propose a 3D structure-guided tooth alignment network that takes 2D photographs as input (e.g., photos captured by smartphones) and aligns the teeth within the 2D image space to generate an orthodontic comparison photograph featuring aesthetically pleasing, aligned teeth. Notably, while the process operates within a 2D image space, our method employs 3D intra-oral scanning models collected in clinics to learn about orthodontic treatment, i.e., projecting the pre- and post-orthodontic 3D tooth structures onto 2D tooth contours, followed by a diffusion model to learn the mapping relationship. Ultimately, the aligned tooth contours are leveraged to guide the generation of a 2D photograph with aesthetically pleasing, aligned teeth and realistic textures. We evaluate our network on various facial photographs, demonstrating its exceptional performance and strong applicability within the orthodontic industry.
 cover:          /assets/images/covers/2DToothAlign.png
+cover_style:    selected-cover-tooth-alignment
 authors:
 - Yulong Dou
 # add * will automatically state "equal contribution"
